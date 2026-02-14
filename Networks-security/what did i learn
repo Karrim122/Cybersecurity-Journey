@@ -1,3 +1,0 @@
-I learned about scanning the network using (port scanning and sniffing) which is the first step for a hacker what kind of attack he will do .
-using Nmap, TCPDUMP for scanning, and wireshark for sniffing (watching packets)
-also VLAN for making the network more safe by seperating the networks
