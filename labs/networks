@@ -1,1 +1,8 @@
-
+tcp/ip cmd commands:
+ipconfig
+ping
+ARP
+FTP 
+Nslookup 
+route 
+netstat
